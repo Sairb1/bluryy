@@ -141,17 +141,6 @@ persist.sys.oplus.upgrade_anim_level=2
 
 ---
 
-## 🔄 Updates
-
-This module supports **auto-update** via Magisk Manager / Fox's Mmm.  
-The update feed is hosted at:
-
-```
-https://raw.githubusercontent.com/Sairb1/bluryy/main/update.json
-```
-
----
-
 ## ❓ FAQ
 
 **Q: Will this work on AOSP / MIUI / OneUI?**  
